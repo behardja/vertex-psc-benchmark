@@ -11,7 +11,7 @@ Once the prerequisites have been met and the user parameters are specified, user
 
 * [01-onnx_model_training_and_endpoint.ipynb](./01-onnx_model_training_and_endpoint.ipynb) : This notebook trains a model that is serialized into ONNX format. The model is registered using custom serving containers and deployed onto a PSC private endpoint, ready to serve predictions.
 
-* [02-endpoint-benchmarking.ipynb](./endpoint-benchmarking.ipynb) : This notebook assesses the performance of a PSC private endpoint through an example method for load testing and benchmarking charts and metrics
+* [02-endpoint-benchmarking.ipynb](./02-endpoint-benchmarking.ipynb) : This notebook assesses the performance of a PSC private endpoint through an example method for load testing and benchmarking charts and metrics
 
 
 
